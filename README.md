@@ -1,14 +1,9 @@
-# Documentação em Código: OverFlow
-> Status do Projeto: Em Andamento...
+# Estudos para Banco de Dados com PostgreSQL
+> Status dos Estudos: Em Andamento...
 
-[Licença (DEFINIR) do Projeto](./LICENSE) (alterar depois)
+Esse repositório reúne estudos realizados com base nas aulas da faculdade que são ministradas pelo **[Prof. Rangel Nunes](https://www.linkedin.com/in/rangel-nunes-42a611216/)** e com alguns materiais auxiliares, como livros, apostilas, atividades e as próprias video-aulas disponibilizadas pelo professor no seu Canal do Youtube(Papo de Programador).
 
-
-## Acesso Rápido:
-
-- [APIs Utilizadas](#apis-utilizadas) <br>
-- [Colaboradores](#contribuidores)
-
-
-### Alterar depois:
-O Projeto **`CaisCode`** foi idealizado para a maratona de programação realizada durante o evento do CaisTech, promovido pelo IFPI - Campus Floriano. O objetivo principal do CaisCode é proporcionar um ambiente desafiador e colaborativo para estudantes de programação, incentivando o desenvolvimento de habilidades técnicas e a criatividade na resolução de problemas.
+<div align=center>
+  <a href="https://www.youtube.com/@Papodeprogramador" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nDRIaTj4blORRH7TI7Dc4ZNLmjauQC3tqyah2SCY0HzA=s160-c-k-c0x00ffffff-no-rj" alt="Logo do Canal Papo de Programador"></a>
+  <p>Imagem 1 - Canal Papo de Programador</p>
+</div>
