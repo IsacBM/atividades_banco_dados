@@ -7,3 +7,13 @@ Esse repositório reúne estudos realizados com base nas aulas da faculdade que 
   <a href="https://www.youtube.com/@Papodeprogramador" target="_blank"><img src="https://yt3.googleusercontent.com/ytc/AIdro_nDRIaTj4blORRH7TI7Dc4ZNLmjauQC3tqyah2SCY0HzA=s160-c-k-c0x00ffffff-no-rj" alt="Logo do Canal Papo de Programador"></a>
   <p>Imagem 1 - Canal Papo de Programador</p>
 </div>
+
+## Desenvolvedor Responsavél:
+<div align="center">
+ 
+|  [<img src="https://avatars.githubusercontent.com/u/91500212?v=4" width=115><br><sub>Isac B. Matos</sub>](https://github.com/IsacBM) |
+| :---: |
+
+</div>
+<h4 align="center">
+<strong>#PostegreSQL</strong>💙 <br>
